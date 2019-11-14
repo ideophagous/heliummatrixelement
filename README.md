@@ -8,14 +8,14 @@ Calculating the <1s1s|H|3d3d> matrix element for helium, using hydrogen-like wav
 
 - Writing a report of the problem:
 
---- Presentation of the theory
+  - Presentation of the theory
 
---- Analytical calculations
+  - Analytical calculations
 
---- Explaining the numerical methods
+  - Explaining the numerical methods
 
---- Numerical convergence analysis
+  - Numerical convergence analysis
 
---- Discussion of results obtained from both methods
+  - Discussion of results obtained from both methods
 
 
