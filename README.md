@@ -1,4 +1,4 @@
-# heliummatrixelement
+# Helium Matrix Element Calculation
 
 This project was made during my second year as a master student in Babeș-Bolyai University.
 
