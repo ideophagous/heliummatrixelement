@@ -2,7 +2,7 @@
 
 This project was made during my second year as a master student in Babeș-Bolyai University.
 
-Calculating the <1s1s|H|3d3d> matrix element for helium, using hydrogen-like wavefunctions.
+Calculating the <1s1s|H|3d3d> matrix element for helium, using hydrogen-like wavefunctions. This involves:
 
 - Calculating the radial integral numerically with analytical verification
 
